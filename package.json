@@ -1,0 +1,40 @@
+{
+  "name": "calc-extra",
+  "version": "1.0.1",
+  "description": "This package will return addition of two numbers",
+  "main": "./lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/httvhutceoscop/NodeCalc.git"
+  },
+  "keywords": [
+    "sweet-lstat"
+  ],
+  "author": {
+    "name": "Viet NT",
+    "email": "tienvietnguyen1110@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/httvhutceoscop/nodecalc/issues"
+  },
+  "homepage": "https://github.com/httvhutceoscop/nodecalc#readme",
+  "readme": "# Add two numbers (for learning purpose)nnDemo module for codeforgeek.com tutorialnn## Installnn npm install nodecalcnnn## APInn### -calc(a,b,p) n where, n a=number,nb=number,p=operator",
+  "readmeFilename": "README.md",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "_id": "calc-extra@1.0.0",
+  "scripts": {},
+  "_shasum": "90b15708a363653212a4dffe688b9073005b06b2",
+  "_from": "calc-extra@^1.0.1"
+}
